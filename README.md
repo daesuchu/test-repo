@@ -6,3 +6,7 @@ test-repo
 
 ## this is secondary
 ### this is a tertiary heading
+
+* first item
+* second item
+* third item
